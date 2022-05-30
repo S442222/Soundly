@@ -1,5 +1,5 @@
 module.exports = {
-        TOKEN: '', //OTYyMTUxNTg0MzcwOTUwMjM0.Gdwf0E.zAabX0SVW7ELMUSHsAMxldAYZLziw62HL9Rpps
+        TOKEN: 'OTYyMTUxNTg0MzcwOTUwMjM0.GxiGwx._i8DdTlEc6UU3n9twjXnzpHIY_1QvWLXXY9rOQ', //
         playing: 'Samtell's Music',
         mongoDB: "", //write your mongoDB url.
  opt: {
